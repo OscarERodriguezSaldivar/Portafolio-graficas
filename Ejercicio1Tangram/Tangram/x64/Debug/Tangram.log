@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\oscar\Desktop\UNI SHIT\graficas\Portafolio graficas\Ejercicio1Tangram\Tangram\Source.cpp(162,5): warning C4305: 'initializing': truncation from 'double' to 'float'
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Tangram.vcxproj -> C:\Users\oscar\Desktop\UNI SHIT\graficas\Portafolio graficas\Ejercicio1Tangram\x64\Debug\Tangram.exe
